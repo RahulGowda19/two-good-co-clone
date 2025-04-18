@@ -15,9 +15,9 @@ To get a local copy up and running, simply clone the repository and open the HTM
 # Deployment
 Sorry this section does not contains anything continue to the next
 
-Built With
-HTML5
-CSS3
-JavaScript
-GSAP
-ScrollTrigger
+* Built With
+* HTML5
+* CSS3
+* JavaScript
+* GSAP
+* ScrollTrigger
